@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Ping Pong</title>
+	</head>
+
+<body>
+
+<h1>Ping Pong Game!</h1>
+
+<h2>{{player1}} vs {{player2}}</h2>
+<br>
+<h2>Congratulaions! {{winner}}, you won! </h2>
